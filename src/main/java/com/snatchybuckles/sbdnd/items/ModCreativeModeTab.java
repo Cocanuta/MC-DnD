@@ -1,7 +1,5 @@
 package com.snatchybuckles.sbdnd.items;
 
-import com.snatchybuckles.sbdnd.init.ModItems;
-
 import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ItemStack;
 
