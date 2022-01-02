@@ -1,8 +1,6 @@
 package com.snatchybuckles.sbdnd.init;
 
 import com.snatchybuckles.sbdnd.SnatchyBucklesDnD;
-import com.snatchybuckles.sbdnd.blocks.PodiumBlock;
-import com.snatchybuckles.sbdnd.blocks.entity.PodiumBlockEntity;
 
 import net.minecraft.world.level.block.Block;
 import net.minecraft.world.level.block.entity.BlockEntityType;
